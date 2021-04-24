@@ -55,8 +55,3 @@ private fun validateName(name: String) { // 4. 이름에 숫자가 포함되어 
     결과 :
     Your name : JamesPark_H123 :: contains number
 */
-
-
-fun testProblem() {
-
-}

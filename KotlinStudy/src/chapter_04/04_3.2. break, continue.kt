@@ -49,7 +49,7 @@ fun labelBreak2() {
 }
 
 fun labelContinue() {
-    println("labelBreak")
+    println("labelContinue")
     first@ for(i in 1..5) {
         second@ for (j in 1..5) {
             if (j == 3) continue@first

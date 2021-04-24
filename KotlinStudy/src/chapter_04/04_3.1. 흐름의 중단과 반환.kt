@@ -53,6 +53,11 @@ fun retFuncLabel() {
     } // 3. 이부분으로 빠져나감
     println("end of retFunc")
 }
+/*
+    결과 :
+    start of retFunc
+    end of retFunc
+*/
 
 // 암묵적 라벨
 fun retFuncImplicitLabel() {
@@ -78,7 +83,7 @@ fun retFuncAnonymous() {
     결과 :
     start of retFunc
     end of retFunc
- */
+*/
 
 // 람다식을 이용한 반환
 fun returnLambdaLabel() {

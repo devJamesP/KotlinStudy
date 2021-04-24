@@ -17,7 +17,6 @@ fun main() {
 
 
 fun getStarTriangle() {
-
     print("Enter the lines: ")
     val n = readLine()!!.toInt()
     for(line in 1..n) {
@@ -77,3 +76,10 @@ fun studyDoWhile() {
         }
     } while (input != 0)
 }
+/*
+    결과 :
+    3
+    123
+    231
+    312
+*/
