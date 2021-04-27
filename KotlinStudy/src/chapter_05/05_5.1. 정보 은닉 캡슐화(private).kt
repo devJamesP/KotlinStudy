@@ -1,8 +1,5 @@
 package chapter_05
 
-import javax.print.attribute.standard.MediaSize
-import kotlin.reflect.jvm.internal.impl.descriptors.Visibilities
-
 fun main() {
     // private 가시성 지시자 예제(Visiblity Modifier)
     val pc = PrivateClass() // 생성 가능

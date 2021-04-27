@@ -9,4 +9,3 @@ package chapter_05
  * Q3. 주 생성자 선언시
  * class Customer public @Inject constructor(name: String) { ... }
 */
-
