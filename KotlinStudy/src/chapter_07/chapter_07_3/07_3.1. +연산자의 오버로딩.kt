@@ -5,11 +5,6 @@ class Point(var x: Int = 0, var y: Int = 10) {
     operator fun plus(p: Point) : Point {
         return Point(x + p.x, y + p.y)
     }
-
-
-
-
-
 }
 
 fun main() {

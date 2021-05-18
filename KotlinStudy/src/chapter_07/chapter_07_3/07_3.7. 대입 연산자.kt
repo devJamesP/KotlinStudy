@@ -10,6 +10,4 @@ fun main() {
     var t: Int = 1
     result += point.y
     // 결과 : 10 = 0 + 10을 result에 대입
-
-    //>>>
 }

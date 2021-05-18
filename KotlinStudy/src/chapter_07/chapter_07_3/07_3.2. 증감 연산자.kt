@@ -7,9 +7,9 @@ class Point2(var x: Int = 0, var y: Int = 10) {
 
 }
 
-
-
 fun main() {
+    var a = 10
+    a--
     var point = Point2()
     --point // --연산자
     println("point = (${point.x}, ${point.y})")
