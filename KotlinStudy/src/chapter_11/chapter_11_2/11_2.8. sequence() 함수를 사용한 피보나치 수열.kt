@@ -6,7 +6,7 @@ val fibonacciSeq = sequence {
     yield(1) // 1. 지연 함수가 사용함
 
     while(true) {
-        yield(a + b) // 2
+        yield(a + b) // 2.
         val tmp = a + b
         a = b
         b = tmp
