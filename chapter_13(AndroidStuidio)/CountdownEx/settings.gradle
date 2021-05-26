@@ -1,0 +1,2 @@
+rootProject.name = "CountdownEx"
+include ':app'
